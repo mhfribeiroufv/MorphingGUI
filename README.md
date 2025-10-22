@@ -9,14 +9,8 @@ O objetivo é implementar, testar e visualizar um algoritmo de *image morphing* 
 
 ```bash
 MorphingGUI/
-├── input # exemplos de arquivos de entrada de dados
-│   ├── A.jpg
-│   ├── B.jpg
-│   ├── moca.png
-│   ├── pontos_moca.csv
-│   ├── pontos_rapaz.csv
-│   └── rapaz.png
-├── lib # módulos Python personalizados
+├── input # Pasta com exemplos de arquivos de entrada de dados
+├── lib # Módulos Python personalizados
 │   ├── __init__.py # Arquivo auxiliar
 │   ├── check_points.py # Módulo auxiliar de checagem de pontos
 │   ├── morph.py # Arquivo auxiliar
